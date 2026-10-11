@@ -1,7 +1,7 @@
 # IDEAVIX — Ideas to Impact 🚀
 
 <p align="center">
-  <img src="https://www.ideavix.in/footer1.png" alt="Ideavix"/>
+  <img src="https://www.ideavix.in/footer1.png" alt="Ideavix" width="150" />
 </p>
 
 <p align="center">
