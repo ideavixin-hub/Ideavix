@@ -1,7 +1,7 @@
 # IDEAVIX — Ideas to Impact 🚀
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IDEAVIX-Innovating%20Ideas-orange?style=for-the-badge" alt="Ideavix"/>
+  <img src="https://www.ideavix.in/footer1.png" alt="Ideavix"/>
 </p>
 
 <p align="center">
@@ -14,8 +14,7 @@
 
 <p align="center">
   <a href="https://ideavix.in">Website</a> •
-  <a href="https://ideavix.vercel.app/">Live Preview</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/company/ideavix)">LinkedIn</a>
 </p>
 
 ---
